@@ -1,7 +1,6 @@
-
-<h4 align="center">
-  🚀 Next Level Week
-</h4>
+<h1 align="center">
+    <img alt="Ecoleta" title="Ecoleta" src=".github/ecoleta.svg" width="220px" />
+</h1>
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -11,9 +10,19 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
+<p align="center">
+ <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!" />
+
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
+</p>
+
 <br>
 
-## Tecnologias
+<p align="center">
+  <img alt="Ecoleta" src=".github/ecoleta.png" width="100%">
+</p>
+
+## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -24,37 +33,25 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Ecoleta é um projeto que visa conectar pessoas com empresas de coletas de materiais recicláveis para ajudar a preservar o nosso lindo planeta com o descarte correto deste materiais.
+O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de resíduos de forma eficiente.
 
 ## 🔖 Layout
 
-- Em Breve
+Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/9TlOcj6l7D05fZhU12xWT3/Ecoleta-Booster?node-id=0%3A1). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
 
+## 🤔 Como contribuir
 
-## 🤔 Instalação
+- Faça um fork desse repositório;
+- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+- Faça push para a sua branch: `git push origin minha-feature`.
 
-<h3>Backend</h3>
- 
- - Entre na pasta `backend` e execute o comando `npm install` 
-
- - `npm start` Ira iniciar o servidor backend na localhost:3333\
-
- <h3>Frontend | Web</h3>
- 
- - Entre na pasta `Frontend` e execute o comando `npm install` 
-
- - `npm start` Ira iniciar o servidor Frontend na localhost:3000\
-
- <h3>Mobile</h3>
- 
- - Entre na pasta `Mobile` e execute o comando `npm install` 
-
- - `npm start` Ira iniciar o de desenvolvimento do Expo
-
-
+Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
+
+Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
